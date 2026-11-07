@@ -1,0 +1,3 @@
+:HL["/smart-study-plan/_next/static/chunks/0xaqi~ya0z8lg.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cairo:wght@500;700;800;900&family=Tajawal:wght@400;500;700;800;900&display=swap","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"subjects","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"isl","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"-2wyD0OVlQGYqxfwIytGz"}
